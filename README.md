@@ -9,7 +9,14 @@ IndividualResults and Results subdirectories, which have the text files of resul
 
 * In Results subdirectory, bestmodel and besttest text files are the results, which we are looking for.
 
-The remainingstocks directory holds all of the stratgies and their stocks, also in order to execute the code, only thing needs to do is:
+The remainingstocks directory holds all of the strategies and their stocks, also in order to execute the code, only thing needs to do is:
 - from the command line 'python3 PortfolioOptimisation.py' would be enough.
 
 Thank you.
+
+
+Necessary modules:
+- numpy
+- pandas
+- yfinance
+
