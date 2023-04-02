@@ -1,0 +1,4 @@
+Population size: 100
+Number of generations: 18
+Crossover probability: 0.95
+Tournament size: 2
